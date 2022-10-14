@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarmelBasome
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me ...
 
